@@ -65,17 +65,20 @@
 
 #### 3.2 Архитектура решения
 
-- Activity Diagram  
+- Activity Diagram:  
 ![Activity Diagram](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-Activity%20diagram.drawio.png)  
-- Еще тут будут остальные уровни C4 диаграмы
+
+- C4 Context Level:  
+![C4 Context Level](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-C4_Context_-_For_Presentation.drawio.png)
+- C4 Container Level для `Системы взаимодействия пациентов и врачей`:  
+![C4 Container Level](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-C4%20Container.drawio.png)
 
 #### 3.3 Безопасность данных
 
 - Так как у нас ведется работа с персональными данными пациентов, мы понимаем важность зашиты персональных данных.
 - Вся работа у нас ведется на нашем собственном сервере. Данные пациентов зашифрованы.
 
-#### 4. Команда проекта
-
+### 4. Команда проекта
 #### 4.1 Менторы
 
 | Имя Фамилия | Должность |
@@ -84,7 +87,7 @@
 | Дмитрий Головин  | Архитектор, Разработчик ПО  |
 | Эндже Валиахметова | Врач нейроонколог НМИЦ им. Бурденко |
 
-#### 4.2 Студенты AI Talent Hub
+#### 4.2 Студенты 1 курса AI Talent Hub
 
 | Имя Фамилия | Должность |
 | ------------- | ------------- |
