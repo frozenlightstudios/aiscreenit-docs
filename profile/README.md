@@ -100,10 +100,8 @@
 ### 5. Полезные материалы
 - [Презентация 18.12.2023 на проектном семинаре](https://docs.google.com/presentation/d/1jmd8ZPJN2W_otuVlJMtpkSThPnvUJVPi6uIuxa3TRTQ/edit?usp=sharing)
 
-
-
-
-
+### 6. Пример работы
+https://github.com/bs-muu/.github/assets/115554194/b15063e3-66cc-46f6-ba52-5f91288ef43b
 
 
 
