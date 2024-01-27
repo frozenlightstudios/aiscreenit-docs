@@ -40,10 +40,6 @@
 - использование ML ни в коем случае __не призвано заменить врача__,
 - результаты работы ML моделей __не будут показываться пациентам__.
 
-##### C4 Context Level
-
-![C4 Context Level](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-C4_Context_-_For_Presentation.drawio.png)
-
 ##### Трекер пациентов
 
 Бизнес-требования:
@@ -57,6 +53,10 @@
 - открытый исходный код.
 
 Врач и пациент будут взамодействовать через трекер. Врач будет создавать для конкрентного пациента "проект", затем будет отправлять приглашение пациенту в этот проект. Пациент сможет выложить в проект свой МРТ-снимок, который автоматически будет проанализирован ML моделями.
+
+##### Трекер датасетов
+
+
 
 ### 2. Методология
 
@@ -197,9 +197,17 @@ DICOM со снимками их параметрами, включая дева
 
 ##### C4 Context Level
 
+Контекст решения
+
 ![C4 Context Diagraml](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-C4_Context_-_For_Presentation.drawio.png)
 
 ##### C4 Container Level
+
+Контейнер трекера датасетов
+
+![C4 Container Diagraml](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-C4_Container_-_For_Presentation.drawio.png)
+
+Контейнер трекера пациентов
 
 ![C4 Container Diagram](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-C4%20Container.drawio.png)
 
