@@ -193,7 +193,13 @@ DICOM со снимками их параметрами, включая дева
 
 ##### Activity Diagram
 
-![Activity Diagram](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-Activity%20diagram.drawio.png)  
+Контейнер трекера датасетов
+
+![Activity Diagram](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-Activity-diagram.drawio.png)
+
+Контейнер трекера пациентов
+
+![Activity Diagram](https://github.com/bs-muu/.github/blob/main/images/ai-screen-it-Activity%20diagram.drawio.png)
 
 ##### C4 Context Level
 
